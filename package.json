@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "oshelloweb.js",
-  "dependencies": {},
+  "dependencies": {
+    "mysql": "github:mysqljs/mysql"
+  },
   "devDependencies": {},
   "scripts": {
     "start": "node oshelloweb.js",
